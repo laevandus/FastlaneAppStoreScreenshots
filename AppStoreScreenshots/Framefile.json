@@ -1,0 +1,31 @@
+{
+	"device_frame_version": "latest",
+	"default": {
+		"keyword": {
+			"font": "./Fonts/SF-Pro-Display-Medium.otf",
+			"color": "#FFFFFF"
+		},
+		"title": {
+			"font": "./Fonts/SF-Pro-Display-Medium.otf",
+			"color": "#FFFFFF"
+		},
+		"padding": 50,
+		"show_complete_frame": false,
+		"stack_title": true,
+		"use_platform": "IOS"
+	},
+	"data": [ 
+		{
+			"filter": "mainview",
+			"background": "./AppStoreBackgroundPortrait1.jpg"
+		},
+		{
+			"filter": "sheet1",
+			"background": "./AppStoreBackgroundPortrait2.jpg"
+		},
+		{
+			"filter": "sheet2",
+			"background": "./AppStoreBackgroundPortrait3.jpg"
+		}
+	]
+}
